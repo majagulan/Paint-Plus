@@ -1,3 +1,3 @@
 # Painter
 
-### Graphic Editor in Java.
+### Graphic Editor in Java, Destop GUI App.

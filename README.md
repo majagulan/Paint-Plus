@@ -1,2 +1,3 @@
 # Painter
-Desktop GUI App
+
+### Graphic Editor in Java.
